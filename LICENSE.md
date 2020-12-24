@@ -1,6 +1,6 @@
 ## **Released under the Open Innovation License**
 
-Copyright © <YEAR> <COPYRIGHT HOLDER> // Insert information of license holder
+Copyright © 2020 Varnit Goswami
 
 *Version 1, 10th November 2020*
 
